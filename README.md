@@ -1,3 +1,3 @@
 # PyCalc
  
-PyCalc is a graphical calculator made with PyQt6
+PyCalc is a GUI calculator made with PyQt6
